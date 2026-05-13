@@ -1,0 +1,387 @@
+disease,error
+Influenza,summary_failed
+Common cold,summary_failed
+Pneumonia,summary_failed
+Tuberculosis,summary_failed
+Typhoid fever,summary_failed
+Cholera,summary_failed
+Leprosy,summary_failed
+Diphtheria,summary_failed
+Pertussis,summary_failed
+Tetanus,summary_failed
+Plague,summary_failed
+Brucellosis,summary_failed
+Listeriosis,summary_failed
+Leptospirosis,summary_failed
+Melioidosis,summary_failed
+Tularemia,summary_failed
+Anthrax,summary_failed
+Botulism,summary_failed
+Salmonellosis,summary_failed
+Shigellosis,summary_failed
+Campylobacteriosis,summary_failed
+Helicobacter pylori,summary_failed
+Legionellosis,summary_failed
+Lyme disease,summary_failed
+Rocky Mountain spotted fever,summary_failed
+Q fever,summary_failed
+Ehrlichiosis,summary_failed
+Anaplasmosis,summary_failed
+Bartonellosis,summary_failed
+Yersiniosis,summary_failed
+Pasteurellosis,summary_failed
+Nocardiosis,summary_failed
+Actinomycosis,summary_failed
+Necrotizing fasciitis,summary_failed
+Gas gangrene,summary_failed
+Staphylococcal infection,summary_failed
+Streptococcal pharyngitis,summary_failed
+Scarlet fever,summary_failed
+Rheumatic fever,summary_failed
+Impetigo,summary_failed
+Erysipelas,summary_failed
+Cellulitis,summary_failed
+Osteomyelitis,summary_failed
+Septic arthritis,summary_failed
+Endocarditis,summary_failed
+Myocarditis,summary_failed
+Pericarditis,summary_failed
+Meningitis,summary_failed
+Brain abscess,summary_failed
+Spinal epidural abscess,summary_failed
+Psoas abscess,summary_failed
+Liver abscess,summary_failed
+Splenic abscess,summary_failed
+Subphrenic abscess,summary_failed
+COVID-19,summary_failed
+HIV/AIDS,summary_failed
+Hepatitis A,summary_failed
+Hepatitis B,summary_failed
+Hepatitis C,summary_failed
+Hepatitis D,summary_failed
+Hepatitis E,summary_failed
+Chickenpox,summary_failed
+Measles,summary_failed
+Mumps,summary_failed
+Rubella,summary_failed
+Dengue fever,summary_failed
+Malaria,summary_failed
+Zika virus,summary_failed
+Ebola virus disease,summary_failed
+Marburg virus disease,summary_failed
+Rabies,summary_failed
+Yellow fever,summary_failed
+West Nile fever,summary_failed
+Chikungunya,summary_failed
+Monkeypox,summary_failed
+Smallpox,summary_failed
+Herpes simplex,summary_failed
+Herpes zoster,summary_failed
+Epstein-Barr virus,summary_failed
+Cytomegalovirus infection,summary_failed
+Norovirus,summary_failed
+Rotavirus,summary_failed
+Adenovirus infection,summary_failed
+Respiratory syncytial virus,summary_failed
+Human metapneumovirus,summary_failed
+Parainfluenza virus,summary_failed
+Enterovirus,summary_failed
+Coxsackievirus,summary_failed
+Echovirus,summary_failed
+Poliovirus,summary_failed
+Hantavirus,summary_failed
+Nipah virus,summary_failed
+Crimean-Congo hemorrhagic fever,summary_failed
+Rift Valley fever,summary_failed
+Viral hemorrhagic fever,summary_failed
+Lymphocytic choriomeningitis,summary_failed
+Parvovirus B19,summary_failed
+Molluscum contagiosum,summary_failed
+Warts,summary_failed
+Human papillomavirus,summary_failed
+Leishmaniasis,summary_failed
+Trypanosomiasis,summary_failed
+Chagas disease,summary_failed
+Toxoplasmosis,summary_failed
+Cryptosporidiosis,summary_failed
+Giardiasis,summary_failed
+Amebiasis,summary_failed
+Balantidiasis,summary_failed
+Cyclosporiasis,summary_failed
+Microsporidiosis,summary_failed
+Babesiosis,summary_failed
+Schistosomiasis,summary_failed
+Fascioliasis,summary_failed
+Clonorchiasis,summary_failed
+Opisthorchiasis,summary_failed
+Paragonimiasis,summary_failed
+Taeniasis,summary_failed
+Neurocysticercosis,summary_failed
+Echinococcosis,summary_failed
+Trichinosis,summary_failed
+Strongyloidiasis,summary_failed
+Hookworm infection,summary_failed
+Ascariasis,summary_failed
+Enterobiasis,summary_failed
+Trichuriasis,summary_failed
+Lymphatic filariasis,summary_failed
+Loiasis,summary_failed
+Onchocerciasis,summary_failed
+Dracunculiasis,summary_failed
+Toxocariasis,summary_failed
+Baylisascariasis,summary_failed
+Gnathostomiasis,summary_failed
+Angiostrongyliasis,summary_failed
+Mansonelliasis,summary_failed
+Candidiasis,summary_failed
+Aspergillosis,summary_failed
+Cryptococcosis,summary_failed
+Histoplasmosis,summary_failed
+Coccidioidomycosis,summary_failed
+Blastomycosis,summary_failed
+Paracoccidioidomycosis,summary_failed
+Mucormycosis,summary_failed
+Sporotrichosis,summary_failed
+Chromoblastomycosis,summary_failed
+Mycetoma,summary_failed
+Dermatophytosis,summary_failed
+Tinea corporis,summary_failed
+Tinea pedis,summary_failed
+Tinea capitis,summary_failed
+Tinea versicolor,summary_failed
+Ringworm,summary_failed
+Onychomycosis,summary_failed
+Pneumocystis pneumonia,summary_failed
+Asthma,summary_failed
+Chronic obstructive pulmonary disease,summary_failed
+Bronchitis,summary_failed
+Bronchiectasis,summary_failed
+Emphysema,summary_failed
+Pulmonary fibrosis,summary_failed
+Sarcoidosis,summary_failed
+Pulmonary hypertension,summary_failed
+Pulmonary embolism,summary_failed
+Pleural effusion,summary_failed
+Pneumothorax,summary_failed
+Hemothorax,summary_failed
+Pleurisy,summary_failed
+Lung abscess,summary_failed
+Sinusitis,summary_failed
+Rhinitis,summary_failed
+Laryngitis,summary_failed
+Tracheitis,summary_failed
+Epiglottitis,summary_failed
+Croup,summary_failed
+Whooping cough,summary_failed
+Silicosis,summary_failed
+Asbestosis,summary_failed
+Coal workers pneumoconiosis,summary_failed
+Hypersensitivity pneumonitis,summary_failed
+Eosinophilic pneumonia,summary_failed
+Cryptogenic organizing pneumonia,summary_failed
+Acute respiratory distress syndrome,summary_failed
+Obstructive sleep apnea,summary_failed
+Hypertension,summary_failed
+Heart failure,summary_failed
+Coronary artery disease,summary_failed
+Myocardial infarction,summary_failed
+Angina pectoris,summary_failed
+Atrial fibrillation,summary_failed
+Ventricular tachycardia,summary_failed
+Ventricular fibrillation,summary_failed
+Heart block,summary_failed
+Sick sinus syndrome,summary_failed
+Cardiomyopathy,summary_failed
+Dilated cardiomyopathy,summary_failed
+Hypertrophic cardiomyopathy,summary_failed
+Restrictive cardiomyopathy,summary_failed
+Arrhythmogenic cardiomyopathy,summary_failed
+Cardiac tamponade,summary_failed
+Aortic dissection,summary_failed
+Aortic aneurysm,summary_failed
+Peripheral artery disease,summary_failed
+Deep vein thrombosis,summary_failed
+Varicose veins,summary_failed
+Thrombophlebitis,summary_failed
+Raynaud phenomenon,summary_failed
+Takayasu arteritis,summary_failed
+Giant cell arteritis,summary_failed
+Polyarteritis nodosa,summary_failed
+Kawasaki disease,summary_failed
+Infective endocarditis,summary_failed
+Rheumatic heart disease,summary_failed
+Mitral valve prolapse,summary_failed
+Aortic stenosis,summary_failed
+Aortic regurgitation,summary_failed
+Mitral stenosis,summary_failed
+Mitral regurgitation,summary_failed
+Tricuspid regurgitation,summary_failed
+Pulmonary stenosis,summary_failed
+Gastroenteritis,summary_failed
+Peptic ulcer,summary_failed
+Gastritis,summary_failed
+Gastroesophageal reflux disease,summary_failed
+Esophagitis,summary_failed
+Barrett esophagus,summary_failed
+Achalasia,summary_failed
+Esophageal varices,summary_failed
+Mallory-Weiss syndrome,summary_failed
+Gastroparesis,summary_failed
+Celiac disease,summary_failed
+Irritable bowel syndrome,summary_failed
+Inflammatory bowel disease,summary_failed
+Crohn disease,summary_failed
+Ulcerative colitis,summary_failed
+Microscopic colitis,summary_failed
+Diverticulitis,summary_failed
+Diverticulosis,summary_failed
+Appendicitis,summary_failed
+Intestinal obstruction,summary_failed
+Volvulus,summary_failed
+Intussusception,summary_failed
+Hirschsprung disease,summary_failed
+Short bowel syndrome,summary_failed
+Malabsorption syndrome,summary_failed
+Lactose intolerance,summary_failed
+Ischemic colitis,summary_failed
+Angiodysplasia,summary_failed
+Colorectal polyps,summary_failed
+Hemorrhoids,summary_failed
+Anal fissure,summary_failed
+Anal fistula,summary_failed
+Perianal abscess,summary_failed
+Rectal prolapse,summary_failed
+Fecal incontinence,summary_failed
+Gallstones,summary_failed
+Cholecystitis,summary_failed
+Cholangitis,summary_failed
+Primary sclerosing cholangitis,summary_failed
+Primary biliary cholangitis,summary_failed
+Pancreatitis,summary_failed
+Chronic pancreatitis,summary_failed
+Pancreatic pseudocyst,summary_failed
+Autoimmune hepatitis,summary_failed
+Alcoholic liver disease,summary_failed
+Nonalcoholic fatty liver disease,summary_failed
+Liver cirrhosis,summary_failed
+Portal hypertension,summary_failed
+Hepatic encephalopathy,summary_failed
+Spontaneous bacterial peritonitis,summary_failed
+Budd-Chiari syndrome,summary_failed
+Diabetes mellitus,summary_failed
+Type 1 diabetes,summary_failed
+Type 2 diabetes,summary_failed
+Gestational diabetes,summary_failed
+Diabetic ketoacidosis,summary_failed
+Hyperosmolar hyperglycemic state,summary_failed
+Hypoglycemia,summary_failed
+Hypothyroidism,summary_failed
+Hyperthyroidism,summary_failed
+Graves disease,summary_failed
+Hashimoto thyroiditis,summary_failed
+Thyroiditis,summary_failed
+Thyroid nodule,summary_failed
+Goiter,summary_failed
+Thyroid storm,summary_failed
+Hyperparathyroidism,summary_failed
+Hypoparathyroidism,summary_failed
+Addison disease,summary_failed
+Cushing syndrome,summary_failed
+Pheochromocytoma,summary_failed
+Primary hyperaldosteronism,summary_failed
+Congenital adrenal hyperplasia,summary_failed
+Acromegaly,summary_failed
+Gigantism,summary_failed
+Dwarfism,summary_failed
+Diabetes insipidus,summary_failed
+Syndrome of inappropriate antidiuretic hormone,summary_failed
+Hyperprolactinemia,summary_failed
+Multiple endocrine neoplasia,summary_failed
+Carcinoid syndrome,summary_failed
+Metabolic syndrome,summary_failed
+Obesity,summary_failed
+Gout,summary_failed
+Hyperuricemia,summary_failed
+Hyperlipidemia,summary_failed
+Familial hypercholesterolemia,summary_failed
+Phenylketonuria,summary_failed
+Galactosemia,summary_failed
+Wilson disease,summary_failed
+Hemochromatosis,summary_failed
+Porphyria,summary_failed
+Fabry disease,summary_failed
+Gaucher disease,summary_failed
+Niemann-Pick disease,summary_failed
+Tay-Sachs disease,summary_failed
+Mucopolysaccharidosis,summary_failed
+Migraine,summary_failed
+Tension headache,summary_failed
+Cluster headache,summary_failed
+Trigeminal neuralgia,summary_failed
+Stroke,summary_failed
+Transient ischemic attack,summary_failed
+Subarachnoid hemorrhage,summary_failed
+Intracerebral hemorrhage,summary_failed
+Subdural hematoma,summary_failed
+Epidural hematoma,summary_failed
+Epilepsy,summary_failed
+Febrile seizures,summary_failed
+Status epilepticus,summary_failed
+Alzheimer disease,summary_failed
+Vascular dementia,summary_failed
+Lewy body dementia,summary_failed
+Frontotemporal dementia,summary_failed
+Parkinson disease,summary_failed
+Multiple system atrophy,summary_failed
+Progressive supranuclear palsy,summary_failed
+Corticobasal degeneration,summary_failed
+Huntington disease,summary_failed
+Amyotrophic lateral sclerosis,summary_failed
+Multiple sclerosis,summary_failed
+Neuromyelitis optica,summary_failed
+Guillain-Barre syndrome,summary_failed
+Chronic inflammatory demyelinating polyneuropathy,summary_failed
+Myasthenia gravis,summary_failed
+Lambert-Eaton syndrome,summary_failed
+Duchenne muscular dystrophy,summary_failed
+Becker muscular dystrophy,summary_failed
+Facioscapulohumeral muscular dystrophy,summary_failed
+Myotonic dystrophy,summary_failed
+Spinal muscular atrophy,summary_failed
+Charcot-Marie-Tooth disease,summary_failed
+Peripheral neuropathy,summary_failed
+Diabetic neuropathy,summary_failed
+Carpal tunnel syndrome,summary_failed
+Tarsal tunnel syndrome,summary_failed
+Thoracic outlet syndrome,summary_failed
+Bell palsy,summary_failed
+Vestibular neuritis,summary_failed
+Benign paroxysmal positional vertigo,summary_failed
+Meniere disease,summary_failed
+Normal pressure hydrocephalus,summary_failed
+Idiopathic intracranial hypertension,summary_failed
+Narcolepsy,summary_failed
+Restless legs syndrome,summary_failed
+Essential tremor,summary_failed
+Tourette syndrome,summary_failed
+Cerebral palsy,summary_failed
+Spina bifida,summary_failed
+Hydrocephalus,summary_failed
+Encephalitis,summary_failed
+Transverse myelitis,summary_failed
+Syringomyelia,summary_failed
+Myelopathy,summary_failed
+Depression,summary_failed
+Major depressive disorder,summary_failed
+Bipolar disorder,summary_failed
+Anxiety disorder,summary_failed
+Generalized anxiety disorder,summary_failed
+Panic disorder,summary_failed
+Social anxiety disorder,summary_failed
+Post-traumatic stress disorder,summary_failed
+Obsessive-compulsive disorder,summary_failed
+Schizophrenia,summary_failed
+Schizoaffective disorder,summary_failed
+Delusional disorder,summary_failed
+Brief psychotic disorder,summary_failed
+Attention deficit hyperactivity disorder,summary_failed
